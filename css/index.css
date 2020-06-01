@@ -1,0 +1,73 @@
+﻿@charset "utf-8";
+
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;}
+*{margin:0;padding:0;border:0;}
+body {	font-family: sans-serif;font-size: 12px;color:#000000;line-height: 20px;text-align:left}
+td,th {font-family: sans-serif;font-size: 12px;color: #000000;}
+a {color: #000000;}
+A:link {TEXT-DECORATION: none;} 
+A:visited {TEXT-DECORATION: none;}
+A:hover {TEXT-DECORATION: underline;} 
+ul,li{list-style-type:none;}
+
+
+.clearit{clear:both;}
+.page{width:1003px; margin:0 auto;}
+.embed{width: 0px; height: 0px;}
+.daohang{width:1003px; height:42px; margin:0 auto; overflow:hidden; background:url(../images/bj007.jpg) repeat-x;}
+.daohang p{width:250px; line-height:42px; display:block; float:left; text-align:center; font-size:14px; }
+.daohang p a{color:#FFFF00;}
+.content{width:1003px; margin:0 auto; background:url(../images/bj005.jpg); padding:20px 0;}
+.zuo{width:220px; float:left; margin-left:10px; display:inline;}
+.lunhuan{width:220px; height:300px;}
+.fangshi{width:220px; border:1px solid #FFFF00; }
+.fangshi h1{font-size:14px; padding:0 10px; font-weight:bold; line-height:26px; border-bottom:1px solid #FFFF00; color:#FFFFFF;}
+.fangshi p{text-align:left; padding:0 10px; line-height:24px;color:#FFFFFF;}
+.you{width:750px; float:left; margin-left:10px; display:inline;}
+.jieshao{width:748px;border:1px solid #FFFF00; background:#9d1614; margin-bottom:10px; }
+.jieshao h1{font-size:14px; padding:0 10px; font-weight:bold; line-height:28px; background:#7d0b08;border-bottom:1px solid #FFFF00; color:#FFFF00;}
+.jieshao p{text-align:left; padding:10px; line-height:24px;color:#ffffff; overflow: hidden;}
+.jieshao h3{text-align:left; padding:10px; line-height:34px;color:#ffffff; font-size: 20px; overflow: hidden;}
+.jieshao h3 a{text-align:left; padding:10px; line-height:34px;color:#ffffff; font-size: 20px; overflow: hidden;}
+.jieshao img{text-align: center; display: block; margin: 20px auto;}
+.jieshao h4{font-size: 20px; text-align: center;  color: #000; line-height: 70px; padding: 0px 30px;}
+
+.jieshaoB{width:748px;border:1px solid #FFFF00; background:#9d1614; margin-bottom:10px; }
+.jieshaoB h1{font-size:14px; padding:0 10px; font-weight:bold; line-height:28px;  background:#7d0b08;border-bottom:1px solid #FFFF00; color:#FFFF00;}
+.jieshaoB p{padding:10px 0;}
+.jieshaoB img{width:200px; margin-right:10px; padding:1px; border:1px solid #FFFF00; background:#FFFFFF;}
+.foot{width:1003px; margin:0 auto; padding-top:50px; background:url(../images/bj006.jpg) repeat-x top;}
+.foot p{text-align:center; line-height:30px; color:#FFFFFF;}
+
+
+.jieshao1{width:368px;border:1px solid #FFFF00; float:left; display:inline; background:#9d1614; margin-bottom:10px; }
+.jieshao1 h1{font-size:14px; padding:0 10px; font-weight:bold; line-height:28px; background:#7d0b08;border-bottom:1px solid #FFFF00; color:#FFFF00;}
+.jieshao1 p{text-align:left; padding:10px; line-height:24px;color:#ffffff;}
+
+.jieshao2{width:368px;border:1px solid #FFFF00; float:right; display:inline; background:#9d1614; margin-bottom:10px; }
+.jieshao2 h1{font-size:14px; padding:0 10px; font-weight:bold; line-height:28px;  background:#7d0b08;border-bottom:1px solid #FFFF00; color:#FFFF00;}
+.jieshao2 p{text-align:left; padding:10px; line-height:24px;color:#ffffff;}
+
+
+.zhuanti{width:750px; margin:10px auto; overflow:hidden; }
+.zhuanti1{width:370px; float:left;  background: #9d1614; border:1px solid #FFFF00;}
+.zhuanti1 h1{font-size:14px; font-weight:bold; line-height:28px; color:#7d0b08;}
+.zhuanti1 h1 a{width: 100%; height: 100px; text-align: center; color: #FFFF00;line-height: 100px; font-size: 30px; display: block; margin: 0 auto;}
+
+.zhuanti2{width:370px; float:right; border:1px solid #FFFF00;background: #9d1614;  }
+.zhuanti2 h1{font-size:14px;  font-weight:bold; line-height:28px;  color:#7d0b08;}
+.zhuanti2 h1 a{width: 100%; height: 100px; text-align: center;color: #FFFF00; line-height: 100px; font-size: 30px; display: block; margin: 0 auto;}
+
+.you h2{font-size:14px; font-weight:bold; text-align:center; line-height:30px; border-bottom:1px solid #FFFF00; color:#FFFF00;}
+.neirong{padding:20px; line-height:24px; color:#FFFFFF;}
+.neirongA{padding:20px; line-height:24px; color:#FFFFFF;}
+.neirongA p{color:#FFFFFF;}
+.neirongA table tr td{color:#FFFFFF;}
+.neirongA table tr td a{color:#FFFFFF;}
+
+.neirong ul{padding:10px; font-size:14px; line-height:28px;}
+.neirong ul li a{ color:#ffffff;}
+
+.zhanshi{padding-bottom:20px; overflow:hidden;}
+.zhanshi img{width:160px;  float:left; margin-left:10px; display:inline;}
+
